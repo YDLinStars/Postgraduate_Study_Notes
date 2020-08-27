@@ -3,11 +3,10 @@
 <hr style=" border:solid; width:100px; height:1px;" color=#000000 size=1">
 <br>  
 
-@[TOC](目录)
 
 </font>
-
-<hr style=" border:solid; width:100px; height:1px;" color=#000000 size=1">
+## 具体内容请参考：
+https://blog.csdn.net/qq_37457202/article/details/108181067
 
 #  1 python基础入门：
 ## 1.1 AI基础学习
