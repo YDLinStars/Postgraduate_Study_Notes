@@ -55,7 +55,8 @@ https://blog.csdn.net/qq_37457202/article/details/108181067
 | 文章名称 |文章博客|
 |--|--|
 | 神经网络基础学习笔记汇总| [传送门](https://blog.csdn.net/qq_37457202/article/details/107732807) |<br>  
-|神经网络基础学习笔记（一）感应机（人工神经元） | [传送门](https://blog.csdn.net/qq_37457202/article/details/107475986) |<br>  
+| 神经网络基础学习笔记（一）感应机（人工神经元） | [传送门](https://blog.csdn.net/qq_37457202/article/details/107475986) |<br>  
+
 **注意:** 由于章节数较多，就直接把总账放下去建议，单章，单章看，详细见博客。建议前往博客上进行查看，是书本上的学习笔记，建议都都打一遍
 
 # 5 Tensorflow2.0 学习笔记 
@@ -75,6 +76,12 @@ https://blog.csdn.net/qq_37457202/article/details/108181067
 | Tensorflow入门与实战学习笔记（十三）-FNN图像语义分割| [传送门](https://blog.csdn.net/qq_37457202/article/details/108020509) |<br> 
 | Tensorflow2.0 入门与实战学习笔记（十四）-RNN循环卷积网络 | [传送门](https://blog.csdn.net/qq_37457202/article/details/108183601) |<br>  
 代码笔记仓库：
+
+# 6 NLP学习
+| 文章名称 |文章博客|
+|--|--|
+| 深度学习（自然语言处理）-词嵌入 | [传送门](https://blog.csdn.net/qq_37457202/article/details/108697461) |<br>  
+| 深度学习（自然语言处理）RNN、LSTM、TextCNN | [传送门](https://blog.csdn.net/qq_37457202/article/details/108784568) |<br>  
 
 
 # 6  参考文献<br>  
