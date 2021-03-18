@@ -77,6 +77,12 @@ https://blog.csdn.net/qq_37457202/article/details/108181067
 
 #  4 深度学习基础-神经网络 
 ##  4.1 神经网络学习基础
+**强烈推荐这一本书**！！！
+
+![image-20210318133723748](image/README/image/image-20210318133723748.png)
+
+
+
 | 文章名称 |文章博客|
 |--|--|
 | 神经网络基础学习笔记汇总| [传送门](https://blog.csdn.net/qq_37457202/article/details/107732807) |<br>  
