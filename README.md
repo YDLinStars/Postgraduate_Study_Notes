@@ -6,10 +6,29 @@
 仓库的内容主要为**准研一暑假时**，自己整理的一些笔记，如有不足的地方，希望各位大佬**喷的轻一点呀**
 
 <hr style=" border:solid; width:100px; height:1px;" color=#000000 size=1">
-<br>  
-
+<br> 
 
 </font>
+
+# **学习资料**
+
+链接：https://pan.baidu.com/s/1Qm2qNDj8PudcD4-Vh-5oKg 
+提取码：qeqh 
+复制这段内容后打开百度网盘手机App，操作更方便哦
+
+**建议：**
+
+- 关于机器学习可以先去看吴恩达的机器学习B站上有
+- 关于深度学习入门直接看鱼书，书本上的习题建议都手打一遍
+- NLP的内容后面再看，陆续更新
+
+
+
+
+
+
+
+
 
 ## 具体内容请参考：
 https://blog.csdn.net/qq_37457202/article/details/108181067
