@@ -25,7 +25,9 @@
    1. 选一篇英文综述来看
    2. 补充基础知识Word2Vec数学基础：https://www.cnblogs.com/peghoty/p/3857839.html
    3. 看论文
-
+   4. 关于命名实体识别的好文章:https://www.yanxishe.com/columnDetail/21153
+   5. 关于Transfomer模型可以去看一下B站的视频讲解后在去看论文
+   6. 关于BERT的一个简单使用的jupyter notebook 稍后补上
 Notes:
 
 - python的学习请查看机器学习初学者公众号,主要学习**科学工具包**、**SKlearn**等使用
